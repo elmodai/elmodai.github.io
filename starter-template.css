@@ -13,9 +13,9 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background:url(header_covid_serie.svg) no-repeat center;
-  background-position: 0px 300px;
-  background-size: 1000px;
+  /* background:url(header_covid_serie.svg) no-repeat center; */
+  /* background-position: 0px 300px; */
+  /* background-size: 1000px; */
   background-color: rgb(255, 255, 255);
   overflow-x: hidden;
   padding-top: 20px;
